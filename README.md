@@ -21,7 +21,7 @@
 <br/>
 ------------------------------------------------------------------------- <br/>
 <br/>
-> Update v2.2 (5/8) <br/> 
+> ## Update v2.2 (5/8) <br/> 
 ### Additions <br/>
 --- Added Spears and Swords <br/>
 --- Added 2 new worlds at level 4 and 8 <br/>
