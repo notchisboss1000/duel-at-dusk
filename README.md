@@ -45,6 +45,7 @@
 --- Boomerang can no longer fly off-stage <br/>
 ------------------------------------------------------------------------- <br/>
 > Update v2.1 (5/7) "Day 1 patch" <br/>
+
 First public update since launch  <br/>
 ##3 Bug-Fixes <br/>
 --- Fixed bug where Enchanted Sword would not hit  <br/>
@@ -61,4 +62,5 @@ when returning to the player ( Reported by  <br/>
 --- Added Space as a fire button <br/>
 ------------------------------------------------------------------------- <br/>
 > Version 2.0 (5/7) <br/>
+
 First public version <br/>
