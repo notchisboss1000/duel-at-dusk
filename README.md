@@ -18,7 +18,9 @@
 --- Fixed a bug where boomerangs could fly off screen resulting in a soft-lock <br/>
 --- Fixed a glitch where Infinitum would trap the weapon on the side of the stage <br/>
 --- Scoreboard now runs after every game starts rather than just the first <br/>
+<br/>
 ------------------------------------------------------------------------- <br/>
+<br/>
 > Update v2.2 (5/8) <br/> 
 ### Additions <br/>
 --- Added Spears and Swords <br/>
@@ -43,7 +45,9 @@
 ### Bug-Fixes <br/>
 --- Fixed glitch where repeatedly holding fire on a box breaks the game <br/>
 --- Boomerang can no longer fly off-stage <br/>
+<br/>
 ------------------------------------------------------------------------- <br/>
+<br/>
 > Update v2.1 (5/7) "Day 1 patch" <br/>
 
 First public update since launch  <br/>
