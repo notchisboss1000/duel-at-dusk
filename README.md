@@ -1,4 +1,4 @@
-> Update v2.3 (5/9) <br/>
+> ## Update v2.3 (5/9) <br/>
 
 [Infinitum is broken as of now and is disabled] <br/>
 ### Additions <br/>
@@ -47,8 +47,8 @@
 --- Boomerang can no longer fly off-stage <br/>
 <br/>
 ------------------------------------------------------------------------- <br/>
-<br/>
-> Update v2.1 (5/7) "Day 1 patch" <br/>
+
+> ## Update v2.1 (5/7) "Day 1 patch" <br/>
 
 First public update since launch  <br/>
 ##3 Bug-Fixes <br/>
@@ -65,6 +65,6 @@ when returning to the player ( Reported by  <br/>
 --- Added Title Splash Text <br/>
 --- Added Space as a fire button <br/>
 ------------------------------------------------------------------------- <br/>
-> Version 2.0 (5/7) <br/>
+> ## Version 2.0 (5/7) <br/>
 
 First public version <br/>
