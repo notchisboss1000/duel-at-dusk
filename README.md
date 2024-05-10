@@ -13,9 +13,6 @@
 ### Bug-fixes <br/>
 --- Title music is now caught and can't continue and overlap the overworld theme <br/>
 --- Fixed Respawns <br/>
- <br/>
-------------------------------------------------------------------------- <br/>
- <br/>
 
 > ## Update v2.3 (5/9) <br/>
 
@@ -37,9 +34,7 @@
 --- Fixed a bug where boomerangs could fly off screen resulting in a soft-lock <br/>
 --- Fixed a glitch where Infinitum would trap the weapon on the side of the stage <br/>
 --- Scoreboard now runs after every game starts rather than just the first <br/>
-<br/>
-------------------------------------------------------------------------- <br/>
-<br/>
+
 > ## Update v2.2 (5/8) <br/> 
 ### Additions <br/>
 --- Added Spears and Swords <br/>
@@ -65,7 +60,7 @@
 --- Fixed glitch where repeatedly holding fire on a box breaks the game <br/>
 --- Boomerang can no longer fly off-stage <br/>
 <br/>
-------------------------------------------------------------------------- <br/>
+
 
 > ## Update v2.1 (5/7) "Day 1 patch" <br/>
 
@@ -81,7 +76,7 @@ First public update since launch  <br/>
 ### Additions <br/>
 --- Added Title Splash Text <br/>
 --- Added Space as a fire button <br/>
-------------------------------------------------------------------------- <br/>
+
 > ## Version 2.0 (5/7) <br/>
 
 First public version <br/>
