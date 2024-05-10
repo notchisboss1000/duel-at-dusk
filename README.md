@@ -57,9 +57,7 @@
 
 First public update since launch  <br/>
 ##3 Bug-Fixes <br/>
---- Fixed bug where Enchanted Sword would not hit  <br/>
-when returning to the player ( Reported by  <br/>
-@CMonster10_2 ) <br/>
+--- Fixed bug where Enchanted Sword would not hit when returning to the player ( Reported by @CMonster10_2 ) <br/>
 ### Changes <br/>
 --- Changed Damage variables <br/>
 ------ Gave zombies a hurt sprite <br/>
