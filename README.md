@@ -59,8 +59,6 @@
 ### Bug-Fixes <br/>
 --- Fixed glitch where repeatedly holding fire on a box breaks the game <br/>
 --- Boomerang can no longer fly off-stage <br/>
-<br/>
-
 
 > ## Update v2.1 (5/7) "Day 1 patch" <br/>
 
