@@ -1,3 +1,8 @@
+> ## Update v2.4 (5/10) <br/>
+
+### Additions <br/>
+--- Added Zombie compendium <br/>
+
 > ## Update v2.3 (5/9) <br/>
 
 [Infinitum is broken as of now and is disabled] <br/>
