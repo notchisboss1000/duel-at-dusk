@@ -1,7 +1,21 @@
 > ## Update v2.4 (5/10) <br/>
 
 ### Additions <br/>
+
+--- Added a BOSS!!! (Magma Crawler)  <br/>
+--- Added World 4 (Lava) <br/>
+--- Added 2 new songs <br/>
+--- Added a boss catalog <br/>
 --- Added Zombie compendium <br/>
+### Changes <br/>
+--- Added a 2s cooldown to screen hopping <br/>
+--- Items now take less time to obtain <br/>
+### Bug-fixes <br/>
+--- Title music is now caught and can't continue and overlap the overworld theme <br/>
+--- Fixed Respawns <br/>
+ <br/>
+------------------------------------------------------------------------- <br/>
+ <br/>
 
 > ## Update v2.3 (5/9) <br/>
 
