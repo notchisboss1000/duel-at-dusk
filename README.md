@@ -102,7 +102,7 @@
 --- Fixed glitch where repeatedly holding fire on a box breaks the game <br/>
 --- Boomerang can no longer fly off-stage <br/>
 
-> ## Update v2.1 (5/7) "Day 1 patch" <br/>
+> ### Update v2.1 (5/7) "Day 1 patch" <br/>
 
 First public update since launch  <br/>
 ### Bug-Fixes <br/>
@@ -117,6 +117,6 @@ First public update since launch  <br/>
 --- Added Title Splash Text <br/>
 --- Added Space as a fire button <br/>
 
-> ## Version 2.0 (5/7) <br/>
+> # Version 2.0 (5/7) <br/>
 
 First public version <br/>
