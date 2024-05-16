@@ -1,3 +1,40 @@
+> ## Update v2.5.2a (5/15) <br/>
+
+### Bug-Fixes <br/>
+
+--- Fixed [major] bug where enemies would phase through your shield <br/>
+
+### Update v2.5.2 (5/15) <br/>
+
+### Bug-Fixes <br/>
+
+--- Fixed a Respawn point that spawned you with the wrong item <br/>
+
+> ##  Update v2.5.1 (5/14) <br/>
+
+### Bug-Fixes <br/>
+--- Fixed a bug on the TurboWarp version where the title logo would burn in the screen for the whole game <br/>
+
+> ## Update v2.5 (5/13) <br/>
+
+### Additions <br/>
+
+--- Added the Statue Trials (Quest on level 20) <br/>
+------ Three New Worlds <br/>
+------ Two New Items <br/>
+------ New mysteries?!? <br/>
+
+### Bug-fixes <br/>
+
+--- Fixed a bug where you couldn't skip weapons <br/>
+--- Fixed a bug where items would spawn at the wrong level <br/>
+--- [Possibly] fixed a bug where your boomerang could despawn <br/>
+
+### Changes <br/>
+
+--- Added SFX to the Magma Boss <br/>
+--- Removed Weapon Size Ups, and removed Size variable for items <br/>
+
 > ## Update v2.4 (5/10) <br/>
 
 ### Additions <br/>
