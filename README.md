@@ -4,7 +4,7 @@
 
 --- Fixed [major] bug where enemies would phase through your shield <br/>
 
-###3 Update v2.5.2 (5/15) <br/>
+> ### Update v2.5.2 (5/15) <br/>
 
 ### Bug-Fixes <br/>
 
