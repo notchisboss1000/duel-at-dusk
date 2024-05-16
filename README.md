@@ -1,21 +1,21 @@
-> ## Update v2.5.2a (5/15) <br/>
+> ### Update v2.5.2a (5/15) <br/>
 
 ### Bug-Fixes <br/>
 
 --- Fixed [major] bug where enemies would phase through your shield <br/>
 
-### Update v2.5.2 (5/15) <br/>
+###3 Update v2.5.2 (5/15) <br/>
 
 ### Bug-Fixes <br/>
 
 --- Fixed a Respawn point that spawned you with the wrong item <br/>
 
-> ##  Update v2.5.1 (5/14) <br/>
+> ###  Update v2.5.1 (5/14) <br/>
 
 ### Bug-Fixes <br/>
 --- Fixed a bug on the TurboWarp version where the title logo would burn in the screen for the whole game <br/>
 
-> ## Update v2.5 (5/13) <br/>
+> # Update v2.5 (5/13) <br/>
 
 ### Additions <br/>
 
@@ -35,7 +35,7 @@
 --- Added SFX to the Magma Boss <br/>
 --- Removed Weapon Size Ups, and removed Size variable for items <br/>
 
-> ## Update v2.4 (5/10) <br/>
+> # Update v2.4 (5/10) <br/>
 
 ### Additions <br/>
 
@@ -44,14 +44,18 @@
 --- Added 2 new songs <br/>
 --- Added a boss catalog <br/>
 --- Added Zombie compendium <br/>
+
 ### Changes <br/>
+
 --- Added a 2s cooldown to screen hopping <br/>
 --- Items now take less time to obtain <br/>
+
 ### Bug-fixes <br/>
+
 --- Title music is now caught and can't continue and overlap the overworld theme <br/>
 --- Fixed Respawns <br/>
 
-> ## Update v2.3 (5/9) <br/>
+> # Update v2.3 (5/9) <br/>
 
 [Infinitum is broken as of now and is disabled] <br/>
 ### Additions <br/>
@@ -72,7 +76,8 @@
 --- Fixed a glitch where Infinitum would trap the weapon on the side of the stage <br/>
 --- Scoreboard now runs after every game starts rather than just the first <br/>
 
-> ## Update v2.2 (5/8) <br/> 
+> # Update v2.2 (5/8) <br/>
+> 
 ### Additions <br/>
 --- Added Spears and Swords <br/>
 --- Added 2 new worlds at level 4 and 8 <br/>
