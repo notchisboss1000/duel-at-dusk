@@ -1,4 +1,52 @@
-> ## Update v2.4 (5/10) <br/>
+> ### Patch v2.5.2b (5/16) <br/>
+
+### Bug-Fixes <br/>
+
+--- Fixed code for y-sorting of the supply drop <br/>
+--- The Magma Crawler now can't spawn on the player <br/>
+
+### Changes <br/>
+
+--- Reworked Music System <br/>
+
+> ### Patch v2.5.2a (5/15) <br/>
+
+### Bug-Fixes <br/>
+
+--- Fixed [major] bug where enemies would phase through your shield <br/>
+
+> ### Update v2.5.2 (5/15) <br/>
+
+### Bug-Fixes <br/>
+
+--- Fixed a Respawn point that spawned you with the wrong item <br/>
+
+> ###  Update v2.5.1 (5/14) <br/>
+
+### Bug-Fixes <br/>
+--- Fixed a bug on the TurboWarp version where the title logo would burn in the screen for the whole game <br/>
+
+> # Update v2.5 (5/13) <br/>
+
+### Additions <br/>
+
+--- Added the Statue Trials (Quest on level 20) <br/>
+------ Three New Worlds <br/>
+------ Two New Items <br/>
+------ New mysteries?!? <br/>
+
+### Bug-fixes <br/>
+
+--- Fixed a bug where you couldn't skip weapons <br/>
+--- Fixed a bug where items would spawn at the wrong level <br/>
+--- [Possibly] fixed a bug where your boomerang could despawn <br/>
+
+### Changes <br/>
+
+--- Added SFX to the Magma Boss <br/>
+--- Removed Weapon Size Ups, and removed Size variable for items <br/>
+
+> # Update v2.4 (5/10) <br/>
 
 ### Additions <br/>
 
@@ -7,14 +55,18 @@
 --- Added 2 new songs <br/>
 --- Added a boss catalog <br/>
 --- Added Zombie compendium <br/>
+
 ### Changes <br/>
+
 --- Added a 2s cooldown to screen hopping <br/>
 --- Items now take less time to obtain <br/>
+
 ### Bug-fixes <br/>
+
 --- Title music is now caught and can't continue and overlap the overworld theme <br/>
 --- Fixed Respawns <br/>
 
-> ## Update v2.3 (5/9) <br/>
+> # Update v2.3 (5/9) <br/>
 
 [Infinitum is broken as of now and is disabled] <br/>
 ### Additions <br/>
@@ -35,7 +87,8 @@
 --- Fixed a glitch where Infinitum would trap the weapon on the side of the stage <br/>
 --- Scoreboard now runs after every game starts rather than just the first <br/>
 
-> ## Update v2.2 (5/8) <br/> 
+> # Update v2.2 (5/8) <br/>
+> 
 ### Additions <br/>
 --- Added Spears and Swords <br/>
 --- Added 2 new worlds at level 4 and 8 <br/>
@@ -60,7 +113,7 @@
 --- Fixed glitch where repeatedly holding fire on a box breaks the game <br/>
 --- Boomerang can no longer fly off-stage <br/>
 
-> ## Update v2.1 (5/7) "Day 1 patch" <br/>
+> ### Update v2.1 (5/7) "Day 1 patch" <br/>
 
 First public update since launch  <br/>
 ### Bug-Fixes <br/>
@@ -75,6 +128,6 @@ First public update since launch  <br/>
 --- Added Title Splash Text <br/>
 --- Added Space as a fire button <br/>
 
-> ## Version 2.0 (5/7) <br/>
+> # Version 2.0 (5/7) <br/>
 
 First public version <br/>
