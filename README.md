@@ -1,3 +1,14 @@
+> ### Patch v2.5.2b (5/16) <br/>
+
+### Bug-Fixes <br/>
+
+--- Fixed code for y-sorting of the supply drop <br/>
+--- The Magma Crawler now can't spawn on the player <br/>
+
+### Changes <br/>
+
+--- Reworked Music System <br/>
+
 > ### Update v2.5.2a (5/15) <br/>
 
 ### Bug-Fixes <br/>
