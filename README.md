@@ -9,7 +9,7 @@
 
 --- Reworked Music System <br/>
 
-> ### Update v2.5.2a (5/15) <br/>
+> ### Patch v2.5.2a (5/15) <br/>
 
 ### Bug-Fixes <br/>
 
