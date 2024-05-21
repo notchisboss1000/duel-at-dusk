@@ -1,3 +1,18 @@
+> ### Patch v2.6b (5/21) <br/>
+
+### Changes <br/>
+
+--- Ice zombies can no longer kill the player <br/>
+--- Regular zombies are a lot more common on W2  <br/>
+
+### Bugfixes <br/>
+
+--- Fixed height glitch with point tickers <br/>
+--- Frozen debuff can no longer reverse controls <br/>
+--- W2 warp no longer appears early <br/>
+--- Fixed warp presets <br/>
+--- Fixed visuals of the Longsword <br/>
+
 > ### Update v2.6a (5/21) <br/>
 
 ### Nerfs and Buffs <br/> 
