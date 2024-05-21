@@ -1,6 +1,6 @@
 > ### Update v2.6a (5/21) <br/>
 
-### Nerfs and Buffs <br/>
+### Nerfs and Buffs <br/> 
 
 --- The Lieutenant's shield now has a 50% chance of deflecting shots <br/>
 
