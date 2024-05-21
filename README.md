@@ -9,7 +9,7 @@
 --- Warping now spits you out to remove void-scumming, and losing the player on warps <br/>
 --- Upgrades now show point tickers <br/>
 
-> ### Update v2.6 (5/20) "Graphics Overhaul" <br/>
+> # Update v2.6 (5/20) "Graphics Overhaul" <br/>
 
 --- Revamped many, many, MANY visuals in the game <br/>
 ------ Rewrote nearly all of the game's underlying code for a new title screen <br/>
