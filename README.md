@@ -1,3 +1,44 @@
+> ### Update v2.6a (5/21) <br/>
+
+### Nerfs and Buffs <br/> 
+
+--- The Lieutenant's shield now has a 50% chance of deflecting shots <br/>
+
+### Changes <br/>
+
+--- Warping now spits you out to remove void-scumming, and losing the player on warps <br/>
+--- Upgrades now show point tickers <br/>
+
+> # Update v2.6 (5/20) "Graphics Overhaul" <br/>
+
+--- Revamped many, many, MANY visuals in the game <br/>
+------ Rewrote nearly all of the game's underlying code for a new title screen <br/>
+
+> ### Update v2.5.4 (5/19) <br/>
+
+### Nerfs and Buffs <br/>
+--- Made the Lieutenant's Shield way better <br/>
+------ Made World 2:3 WAY harder, to balance change <br/>
+--- Nerfed damage-ups and speed-ups (3 → 2) <br/>
+------ Nerfed all stat ups by adding an empty item <br/>
+
+### Bugfixes <br/>
+
+--- Fixed many shield-related glitches <br/>
+------ Fixed visual glitch with the Lieutenant's Shield <br/>
+------ Fixed glitch where Lieutenant's Shield would not register as a shield when it was in motion <br/>
+
+> ### Update v2.5.3 (5/17) <br/>
+
+### Changes <br/>
+
+--- Checkpoints now save your stats <br/>
+--- The boomerang now has a 25% chance of getting caught, rather than a 66% chance <br/>
+
+### Bugfixes <br/>
+
+--- The boomerang no longer has a delay when returning to the player <br/>
+
 > ### Patch v2.5.2b (5/16) <br/>
  
 ### Bug-Fixes <br/>
